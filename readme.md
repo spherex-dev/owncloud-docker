@@ -12,6 +12,6 @@ This setup is simply used for demonstration purposes. It is not intended to be u
 
 Simply clone this repository to a locaton on your hard drive using `git clone https://github.com/spherex-dev/owncloud-docker.git`. Once the repository is cloned, you can start the docker-compose file using `docker-compose up`. The containers can be stopped using `docker-compose down` once testing is complete.
 
-## Owncloud application installation
+## Owncloud desktop application installation
 
 The Owncloud application can be downloaded and installed on to your PC via the [owncloud installation page](https://owncloud.com/desktop-app/). Simply download the latest version of the application and provde a url for the desktop application for connection.
