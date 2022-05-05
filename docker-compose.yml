@@ -7,7 +7,7 @@ volumes:
 
 services:
   owncloud:
-    image: owncloud/server:10.8
+    image: owncloud/server:10.9.1
     restart: always
     ports:
       - 8080:8080
